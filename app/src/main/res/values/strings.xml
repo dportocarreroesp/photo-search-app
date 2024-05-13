@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Photo Search App</string>
+    <string name="trending_now">Trending Now</string>
+    <string name="search_results_for">Search results for \"%1$s\"</string>
+    <string name="search">Search...</string>
+    <string name="something_wrong_happened">Something wrong happened :(</string>
+    <string name="no_search_results_for">No search results for \"%1$s\"</string>
+</resources>
